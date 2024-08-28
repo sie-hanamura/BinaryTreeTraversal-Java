@@ -24,4 +24,3 @@ This repository contains a simple Java implementation of a binary tree with thre
 
 5. The program will output the in-order, pre-order, and post-order traversals of the tree.
 
-arigathanks
