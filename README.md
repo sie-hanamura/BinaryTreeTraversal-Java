@@ -1,7 +1,6 @@
 # BinaryTreeTraversal-Java
 This repository contains a simple Java implementation of a binary tree with three types of traversal methods: in-order, pre-order, and post-order. The program allows users to input numbers to construct the binary tree and then displays the results of each traversal.
 
-![Screenshot 2024-05-25 195230](https://github.com/user-attachments/assets/c20e9765-ce6f-4575-8482-e55ae03aba8e)
 
 
 ## Features
